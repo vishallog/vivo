@@ -1,6 +1,6 @@
 <div class="banner">
 					<h2>
-						<a href="index.php">Hom</a>
+						<a href="index.php">Home</a>
 						<i class="fa fa-angle-right"></i>
 						
 					</h2>
